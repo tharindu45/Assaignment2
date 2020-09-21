@@ -5,6 +5,10 @@ Answer the following questions. Add each answer in a separate commit. (E.g. fill
 1. Explain how git enables saving code.
 
 Git allows users to save code by providing a codebase, or repository, for code at any period in development. The working code directory can then be used to experiment and make changes which may or may not be committed to the repository.
+Answer:
+  The traditional software expression of "saving" is synonymous with the Git term "committing". A commit is the Git equivalent of a "save". Traditional saving should be thought of as a file system operation that is used to overwrite an existing file or write a new file. Alternatively, Git committing is an operation that acts upon a collection of files and directories.
+   
+
 
 2. Explain how git enables tracking code.
 
