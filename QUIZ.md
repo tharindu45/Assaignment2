@@ -20,3 +20,6 @@ Answer:
 3. Explain how git enables sharing code.
 
 Git enables sharing code by allowing users to clone and fork repositories so that they can make changes to their own version of the code. The changes can be reconciled when users push their commits to the branch or merge their respective branches. Commit messages, user ID's and timestamps allow users to see where why and how they are changing the code.
+
+ Answer:
+ In order for git to share your code with others, you’ll need to upload your code to a git repository hosting service so that others can then download your code from the git repository hosting service
