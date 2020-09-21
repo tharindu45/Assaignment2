@@ -14,6 +14,9 @@ Answer:
 
 Git enables tracking code by saving snapshots of a repository's state throughout development. This way, the code and file's individual changes can be tracked. Timestamps and user ID's are attached to every commit allowing not only the state of the code to be tracked, but also who is changing it.
 
+Answer:
+  When Git starts tracking a certain project, a repository is made for all the information it records. To add info to the repository, you create a commit. A commit is a snapshot of the code at the time of saving (called “committing”) to the Git repository.
+
 3. Explain how git enables sharing code.
 
 Git enables sharing code by allowing users to clone and fork repositories so that they can make changes to their own version of the code. The changes can be reconciled when users push their commits to the branch or merge their respective branches. Commit messages, user ID's and timestamps allow users to see where why and how they are changing the code.
